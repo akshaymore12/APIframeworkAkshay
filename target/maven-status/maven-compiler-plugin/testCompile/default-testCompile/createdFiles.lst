@@ -1,0 +1,12 @@
+authmanager\TokenGenerator.class
+com\spotify\pojo\Owner.class
+api\PlaylistAPI.class
+utils\ConfigReader.class
+com\spotify\tests\PlayListWithReusableCalls.class
+com\spotify\pojo\Playlist.class
+com\spotify\tests\PlaylistWithNegativeScenario.class
+com\spotify\pojo\Followers.class
+com\spotify\pojo\ExternalUrls__1.class
+com\spotify\pojo\ExternalUrls.class
+api\SpecBuilders.class
+com\spotify\pojo\Tracks.class
